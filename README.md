@@ -5,7 +5,7 @@
 You are given 45 mins to create a clone of https://yog9.github.io/SnapShot/
 
 - Carefully examine the site
-- Try to timebox 30 mins for React and 15 mins for CSS
+- Try to timebox 30 mins for React and Unit Tests (1 unit test is enough) and 15 mins for CSS
 - You are allowed to use any library you prefer.
 - You may also google any information but not the solution.
 - Please think out loud and ask any clarification questions...
@@ -17,6 +17,7 @@ You will be tested for the following
 - React js
 - React Router
 - React Hooks
+- Unit Tests
 - Context API
 - Flickr API
 - CSS Layout
